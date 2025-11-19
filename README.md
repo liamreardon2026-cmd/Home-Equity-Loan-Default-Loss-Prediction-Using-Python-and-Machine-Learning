@@ -11,4 +11,4 @@ I cleaned and prepared the dataset by correcting outliers, resolving missing val
 
 Based on model performance, I concluded that the random forest model was the most effective for predicting borrower default, achieving 92% accuracy on the testing set. For predicting loss amount, gradient boosting provided the strongest results with a 2,556 RMSE. While I typically prefer simpler models when performance is comparable, these approaches demonstrated clear superiority over the alternatives. 
 
-The uncleaned dataset and Python code will be included in my GitHub repository linked below. I have also added a supporting document with the ROC curve, classification accuracy, and loss accuracy. Feel free to reach out if you would like to explore the dataset or test the model yourself.
+The uncleaned dataset and Python code will be included in my GitHub repository. I have also added a supporting document with the ROC curve, classification accuracy, and loss accuracy. Feel free to explore the dataset or test the model yourself.
